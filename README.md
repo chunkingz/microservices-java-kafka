@@ -3,16 +3,15 @@
 A software system that allows real-time participation and presentation of data from real-time data platforms demonstrating microservices. 
 
 This microservices project was built using: <br>
-👉 Java <br>
-👉 Kafka <br>
-👉 MongoDB <br>
-👉 Grafana <br>
-👉 Eureka <br>
-👉 Ribbon <br>
-👉 Zuul <br>
-👉 Zipkin <br>
-👉 Sleuth <br>
-👉 Hystrix <be>
+👉 Java spring boot<br>
+👉 Kafka (Event Streaming)<br>
+👉 MongoDB (Database)<br>
+👉 Grafana (Data visualization)<br>
+👉 Eureka (Service Registry/Discovery)<br>
+👉 Ribbon (Load Balancer)<br>
+👉 Zuul (API Gateway)<br>
+👉 Zipkin & Sleuth (Distributed Tracing)<br>
+👉 Hystrix (Failover/Resilience)<be>
 
 
 ## The microservices include:
